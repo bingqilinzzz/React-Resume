@@ -1,0 +1,132 @@
+{
+  "myinfo": {
+    "name": "Qingyun Zhang",
+    "birthday": "Sep.10 1990",
+    "phoneNumber": "438-927-0910",
+    "email": "julie@lemontv.me",
+    "linkedin": "qingyun zhang",
+    "facebook": "zhang.qingyun.7",
+    "address": "1902-1211 rue drummond, Montréal, QC. Canada"
+  },
+
+  "educations": [
+    {
+      "title": "Education",
+      "start": "2018/10",
+      "end": "2018/01",
+      "university": "Canada College",
+      "major": "French"
+    },
+    {
+      "start": "2017/09",
+      "end": "2016/09",
+      "university": "Herzing College",
+      "major": "Industry Drafting",
+      "diploma": "DVS",
+      "majorcourse": ["drafting"]
+    },
+    {
+      "start": "2011/9",
+      "end": "2014/4",
+      "university": "laurentian University",
+      "major": "computer science",
+      "diploma": "bachelor",
+      "majorcourse": [
+        "Data structure, UNIX operating system, Computer network, Internet tools."
+      ]
+    },
+    {
+      "start": "2008/9",
+      "end": "2011/6",
+      "university": "Beijing Information Science and Technology University",
+      "major": "Information and Computing Science",
+      "diploma": "Bechelor",
+      "majorcourse": ["Math, Operating system, C, C++."]
+    }
+  ],
+
+  "works": [
+    {
+      "title": "Work Experience",
+      "start": "2015/6",
+      "end": "2015/11",
+      "company": "Shanghai Hode Information Technology Co.,ltd",
+      "position": "front-end web developer",
+      "description": "Bilibili is a video sharing website themed around anime, manga, and game fandom based in China, where users can submit view and add commentary subtitles on videos.(www.bilibili.com)",
+      "responsbility": [
+        "I’m in charge of maintain BML website every year, developing and maintain efficiency coding activity pages using HTML5, CSS3 and JavaScript, implement animation, draw a lottery page, advertising introduction page. Also Using Git version control system to cooperate with back-end developer."
+      ]
+    },
+    {
+      "start": "2014/12",
+      "end": "2015/4",
+      "company": "Shanghai yuanchang information CO., LTD",
+      "position": "front-end web developer",
+      "responsbility": [
+        "Developed a transaction web application using HTML5, CSS3 and Angular.js 1.0 framework. Using Ionic Framework to package. Building homepage, slide pages, price market pages, Doing compatibility testing.",
+        "I’m in charge of efficiency fixing front-end bugs of their official website. Using Redmine project management. SVN version control system. Considering compatibility. "
+      ]
+    },
+    {
+      "start": "2014/4",
+      "end": "2014/11",
+      "company": "China Z.Pharmaceutical, productivity centre",
+      "position": "product owner",
+      "responsbility": [
+        "Page and function design of my company’s website.",
+        "Communicated with my boss and web developer to make sure the project would go well.",
+        "Used Axure, Xmind and Sketch to do the demand design.",
+        "Drew prototype figure and writing requirement document."
+      ]
+    }
+  ],
+
+  "skills": [
+    { "title": "Skills", "name": "HTML", "level": 4 },
+    { "name": "CSS", "level": 4 },
+    { "name": "Javascript", "level": 3 },
+    { "name": "React", "level": 3 },
+    { "name": "Bootstrap", "level": 3 },
+    { "name": "Git", "level": 3 },
+    { "name": "jQuery", "level": 3 },
+    {
+      "name": "Shell Command",
+      "level": 2
+    },
+    { "name": "Mysql", "level": 2 },
+    { "name": "Photoshop", "level": 2 },
+    { "name": "D3js", "level": 1 },
+    { "name": "Angularjs", "level": 1 },
+    { "name": "PHP", "level": 1 }
+  ],
+
+  "projects": [
+    {
+      "title": "project",
+      "name": "BML2015-live|PC",
+      "link": "http://www.bilibili.com/html/BML2015-live.html"
+    },
+    {
+      "name": "BML2015-replay|PC",
+      "link": "http://www.bilibili.com/html/2015bml_replay.html"
+    },
+    {
+      "name": "iidariho2015|responsbility",
+      "link": "hd.bilibili.com/page/iidariho2015"
+    },
+    {
+      "name": "symphony|responsibility",
+      "link": "hd.bilibili.com/page/symphony2015"
+    },
+    {
+      "name": "Run Zetang medical |mobile",
+      "link": "lab.julia.moe/final"
+    },
+    {
+      "name": "my music website|PC",
+      "link": "http://project.julia.moe"
+    }
+  ],
+
+  "hobbies": ["Hobbies", "Coding", "Reading", "Running", "Cooking"]
+}

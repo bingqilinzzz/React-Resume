@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-size: 14px;
+  font-family: "Roboto Mono", monospace;
 }
 
 .App-logo {
@@ -30,4 +32,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+.skills,
+.hobbies {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+a {
+  text-decoration: none !important;
+  cursor: pointer;
+  color: #266eb3;
+}
+
+img {
+  width: 70%;
 }

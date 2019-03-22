@@ -1,0 +1,177 @@
+{
+  "myinfo": [
+    {
+      "birthday": "Sep.10 1990"
+    },
+    {
+      "phone-number": "438-927-0910"
+    },
+    {
+      "email": "julie@lemontv.me"
+    },
+    {
+      "linkedin": "qingyun zhang"
+    },
+    {
+      "facebook": "zhang.qingyun.7"
+    }
+  ],
+  "educations": [
+    {
+      "title": "Éducation",
+      "start": "2018/10",
+      "end": "2018/01",
+      "university": "Collège Canada",
+      "major": "Français"
+    },
+    {
+      "start": "2017/09",
+      "end": "2016/09",
+      "university": "Collège Herzing",
+      "major": "Dessin Industrial",
+      "diploma": "DVS",
+      "majorcourse": ["drafting"]
+    },
+    {
+      "start": "2011/9",
+      "end": "2014/4",
+      "university": "l'University de Lauranrian",
+      "major": "l'informatique",
+      "diploma": "Bac",
+      "majorcourse": [
+        "Structure de données, système d'exploitation UNIX, Réseau informatique, outils Internet."
+      ]
+    },
+    {
+      "start": "2008/9",
+      "end": "2011/6",
+      "university": "l'University de Sciences de l'information et de la technologie à BeiJing",
+      "major": "l'informatition et de l'informatique",
+      "diploma": "Bechelor",
+      "majorcourse": ["Math, système d'exploitation, C, C++."]
+    }
+  ],
+
+  "works": [
+    {
+      "title": "Expérience professionnelle",
+      "start": "2016/6",
+      "end": "2016/11",
+      "company": "Shanghai Hode Information Technology Co.,ltd",
+      "position": "Front-end Developeur ",
+      "descript": "",
+      "responsbility": [
+        "Bilibili est un site Web de partage de vidéos basé sur le thème de l'anime, du manga et des jeux basé en Chine, où les utilisateurs peuvent afficher des commentaires et ajouter des sous-titres à des vidéos. (Www.bilibili.com).",
+        "Je suis responsable de la maintenance du site Web BML chaque année, du développement et de la maintenance de pages d’activité de codage efficaces en HTML5, CSS3 et JavaScript, de la mise en œuvre de l’animation, du dessin d’une page de loterie et de la page d’introduction publicitaire. Utiliser également le système de contrôle de version Git pour coopérer avec le développeur back-end."
+      ]
+    },
+    {
+      "start": "2014/12",
+      "end": "2015/4",
+      "company": "Yuan Chang information CO., LTd à ShangHai",
+      "position": "Front-end Developeur ",
+      "responsbility": [
+        "Développer une application web de transaction en utilisant les langues HTML5, CSS3 et Angular.js 1.0. Utiliser Ionic Framework pour emballer. Création de page d’accueil, de diapositives, de pages de prix, de tests de compatibilité.",
+        "Je suis en charge de la correction des bugs de leur site officiel. Utilisé la système de gestion de projet Redmine. Système de contrôle de version SVN. Considérant la compatibilité.."
+      ]
+    },
+    {
+      "start": "2014/4",
+      "end": "2014/11",
+      "company": "Chine Z.Pharmaceutical, centre de productivité",
+      "position": "Propriétaire du produit",
+      "responsbility": [
+        "Étudier la page et la fonction de Web.",
+        "Parlez avec mon patron et le programmeure pour tout va bien",
+        "Utilisez Axure, Xmind et Sketch pour projet.",
+        "Dessiner forme originelle et écrire La demande de document."
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "title": "Capacité",
+      "name": "HTML",
+      "level": 4
+    },
+    {
+      "name": "CSS",
+      "level": 4
+    },
+    {
+      "name": "Javascript",
+      "level": 3
+    },
+    {
+      "name": "React",
+      "level": 3
+    },
+    {
+      "name": "Bootstrap",
+      "level": 3
+    },
+    {
+      "name": "Git",
+      "level": 3
+    },
+    {
+      "name": "jQuery",
+      "level": 3
+    },
+    {
+      "name": "Shell Command",
+      "level": 2
+    },
+    {
+      "name": "Mysql",
+      "level": 2
+    },
+    {
+      "name": "Photoshop",
+      "level": 2
+    },
+    {
+      "name": "D3js",
+      "level": 1
+    },
+    {
+      "name": "Angularjs",
+      "level": 1
+    },
+    {
+      "name": "PHP",
+      "level": 1
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "projet",
+      "name": "BML2015-l'émission|PC",
+      "link": "http://www.bilibili.com/html/BML2015-live.html"
+    },
+    {
+      "name": "BML2015-émission enregistrée|PC",
+      "link": "http://www.bilibili.com/html/2015bml_replay.html"
+    },
+    {
+      "name": "Bon Anniversaire de Rippi|Réponse de la formule",
+      "link": "hd.bilibili.com/page/iidariho2015"
+    },
+    {
+      "name": "Saint Seiya|Réponse de la formule",
+      "link": "hd.bilibili.com/page/symphony2015"
+    },
+    {
+      "name": "Run Zetang Industrie pharmaceutique |téléphone portable",
+      "link": "lab.julia.moe/final"
+    },
+    {
+      "name": "mon web de musique|PC",
+      "link": "http://project.julia.moe"
+    }
+  ],
+
+  "hobbies": ["Programmation", "Lire des livre", "Courir", "Faire la cuisine"]
+}
